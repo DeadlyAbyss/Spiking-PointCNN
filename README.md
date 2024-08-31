@@ -1,1 +1,1 @@
-Official implement of "Spiking PointCNN:a converted spiking nural network under a flexable framework".
+Official implement of "Spiking PointCNN:a converted spiking neural network under a flexable framework".
